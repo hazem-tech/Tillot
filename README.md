@@ -14,6 +14,6 @@ Tell Tillot what you want to get done. It turns it into one focused task, with a
 
 <a href="https://play.google.com/store/apps/details?id=com.ht.timepilotbeta&hl=en"><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="80"></a>
 
-**Mac** (Apple Silicon, macOS 26.5 or later): [download the latest version](https://github.com/hazem-tech/tillot/releases/latest). Unzip it, move Tillot to Applications, and open it once through **System Settings › Privacy & Security › Open Anyway**. After that, Tillot updates itself.
+**Mac** (Apple Silicon, macOS 26.5 or later): [download Tillot.dmg](https://github.com/hazem-tech/tillot/releases/latest/download/Tillot.dmg). Open it, drag Tillot onto Applications, and open it once through **System Settings › Privacy & Security › Open Anyway**. After that, Tillot updates itself.
 
 [Privacy Policy](https://tillot.web.app/privacy)
