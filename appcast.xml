@@ -4,12 +4,12 @@
     <title>Tillot</title>
     <item>
       <title>Tillot 1.2</title>
-      <pubDate>Wed, 25 Nov 2026 21:32:49 GMT</pubDate>
-      <sparkle:version>6</sparkle:version>
+      <pubDate>Wed, 25 Nov 2026 21:53:08 GMT</pubDate>
+      <sparkle:version>7</sparkle:version>
       <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.5</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>Smaller behind-the-scenes changes to how updates are delivered.</p>]]></description>
-      <enclosure url="https://github.com/hazem-tech/tillot/releases/download/v1.2-6/Tillot-mac.zip" type="application/octet-stream" sparkle:edSignature="oMg+TyTRUgS8Ye2UbMhNsdmHmNZ43CaotqPg63vQloSrNRqHZVrqZokhYyGNPSZnkWjTEBikx9//r4QT92zoDw==" length="14726089" />
+      <description><![CDATA[<p>Updates now install and reopen Tillot by themselves.</p>]]></description>
+      <enclosure url="https://github.com/hazem-tech/tillot/releases/download/v1.2-7/Tillot.dmg" type="application/octet-stream" sparkle:edSignature="ge6wQUYdf91AH6Gx+8TJZyIxI0kEsszhiUO1tW2Gt76Xxrv7hiYisakrTybbecncYTIY2cfwAoWAD1ehe2r1Dg==" length="17096774" />
     </item>
   </channel>
 </rss>
