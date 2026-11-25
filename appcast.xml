@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Tillot</title>
+    <item>
+      <title>Tillot 1.2</title>
+      <pubDate>Wed, 25 Nov 2026 21:32:49 GMT</pubDate>
+      <sparkle:version>6</sparkle:version>
+      <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.5</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Smaller behind-the-scenes changes to how updates are delivered.</p>]]></description>
+      <enclosure url="https://github.com/hazem-tech/tillot/releases/download/v1.2-6/Tillot-mac.zip" type="application/octet-stream" sparkle:edSignature="oMg+TyTRUgS8Ye2UbMhNsdmHmNZ43CaotqPg63vQloSrNRqHZVrqZokhYyGNPSZnkWjTEBikx9//r4QT92zoDw==" length="14726089" />
+    </item>
+  </channel>
+</rss>
